@@ -1,0 +1,1 @@
+BINGO para marcar numeros 
